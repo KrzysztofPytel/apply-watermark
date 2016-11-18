@@ -1,4 +1,4 @@
 Apply watermark script
 ======================
 
-Last time script was modified by: Krzysztof Pytel
+Last time script was modified by: Jakub Kanclerz
